@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from france</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimbenali&label=Profile%20views&color=0e75b6&style=flat" alt="brahimbenali" /> </p>
-<a href= "[www.linkedin.com/in/brahim-benali-a45b002b2](https://www.linkedin.com/in/brahim-benali-a45b002b2/)"> linkedin </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahimbenali" alt="brahimbenali" /></a> </p>
 
@@ -10,7 +9,7 @@
 
 - 🔭 I’m currently working on **epitech**
 
-- 📫 How to reach me **brahim.benali@epitech.eu**
+- 📫 How to reach me **brahim.benali@epitech.eu** && "https://www.linkedin.com/in/brahim-benali-a45b002b2/"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
