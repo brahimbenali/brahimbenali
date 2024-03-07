@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **epitech**
+- 🔭 I’m currently working on **epitech** zeub
 
 - 📫 How to reach me **brahim.benali@epitech.eu** && "https://www.linkedin.com/in/brahim-benali-a45b002b2/"
 
